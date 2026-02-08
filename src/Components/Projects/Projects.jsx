@@ -52,37 +52,11 @@ const Projects = () => {
 
        </a>
 
- <a className={styles.proname} href="https://Shehanaaz-dotcom.github.io/Chatapp/" target="_blank">
-          <div>
-          <img className={styles.image3}  src={imageSrc15}/>
-          </div>
-          <div>
-              <p className={styles.name1}>  Let's Chat  </p>
-              <p className={styles.name2}>  Chat Application  </p>
-          </div>
-       </a>
-         <a className={styles.proname} href="https://Shehanaaz-dotcom.github.io/Jobportal/" target="_blank">
-          <div>
-          <img className={styles.image3}  src={imageSrc16}/>
-          </div>
-          <div>
-              <p className={styles.name1}>  Find Jobs  </p>
-              <p className={styles.name2}> Job Portal  </p>
-          </div>
-       </a>
+ 
 </div>
 <div className={styles.projects}>
       
-        <a className={styles.proname} href="https://Shehanaaz-dotcom.github.io/Moviesearch/" target="_blank">
-          <div>
-          <img className={styles.image3}  src={imageSrc17}/>
-          </div>
-          <div>
-              <p className={styles.name1}>  Search </p>
-              <p className={styles.name2}> Movie Search  </p>
-          </div>
-
-       </a>
+        
                  
          <a className={styles.proname} href="https://Shehanaaz-dotcom.github.io/Quiz/" target="_blank">
           <div>
